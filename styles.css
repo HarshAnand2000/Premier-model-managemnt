@@ -1150,7 +1150,7 @@ h4 span {
     height: 28%;
   }
   #page6details h2 {
-    font-family: monument;
+    font-family: monument, "Abril Fatface";
     text-transform: uppercase;
     margin-bottom: 1vh;
     font-size: 26px;
@@ -1275,6 +1275,7 @@ h4 span {
 
   #marquee h1 {
     font-size: 6vw;
+    font-family: monument, "Abril Fatface";
   }
 
   /*************************************************************FOOTER*************************************************************/
