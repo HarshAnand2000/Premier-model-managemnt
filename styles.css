@@ -516,7 +516,7 @@ body {
   height: 33%;
 }
 #page6details h2 {
-  font-family: monument,"Abril Fatface";
+  font-family: monument, "Abril Fatface";
   text-transform: uppercase;
   margin-bottom: 3vh;
   font-size: 26px;
@@ -1274,7 +1274,6 @@ h4 span {
   }
 
   #marquee h1 {
-    font-family: monument;
     font-size: 6vw;
   }
 
@@ -1302,7 +1301,7 @@ h4 span {
     display: initial;
   }
   #footer-heading h1 {
-    font-family: monument;
+    font-family: monument, "Abril Fatface";
     text-align: center;
     font-size: 7vw;
   }
@@ -1356,6 +1355,7 @@ h4 span {
 
   #footer-logo {
     font-size: 25px;
+    font-family: monument, "Abril Fatface";
   }
   #footer-logo::before {
     font-size: 9px;
