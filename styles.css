@@ -58,7 +58,7 @@ body {
 }
 
 #logo {
-  font-family: monument;
+  font-family: monument, "Abril Fatface";
   font-size: 30px;
   letter-spacing: -1px;
   position: relative;
@@ -146,7 +146,7 @@ body {
   color: white;
 }
 #overlay-upper h1 {
-  font-family: monument;
+  font-family: monument, "Abril Fatface";
   font-size: 4.2vw;
   line-height: 4.8vw;
   font-weight: 700;
@@ -313,7 +313,7 @@ body {
   font-size: 26px;
   padding-left: 4vw;
   text-transform: uppercase;
-  font-family: monument;
+  font-family: monument, "Abril Fatface";
 }
 
  /*************************************************************PAGE 3*************************************************************/
@@ -414,7 +414,7 @@ body {
 }
 #page5 > h1 {
   text-align: center;
-  font-family: monument;
+  font-family: monument, "Abril Fatface";
   text-transform: uppercase;
   margin-bottom: 8vh;
 }
@@ -516,7 +516,7 @@ body {
   height: 33%;
 }
 #page6details h2 {
-  font-family: monument;
+  font-family: monument,"Abril Fatface";
   text-transform: uppercase;
   margin-bottom: 3vh;
   font-size: 26px;
@@ -651,7 +651,7 @@ body {
 }
 
 #marquee h1 {
-  font-family: monument;
+  font-family: monument, "Abril Fatface";
   font-size: 3.5vw;
   text-transform: uppercase;
   color: transparent;
@@ -690,7 +690,7 @@ body {
   padding: 2.5vw 4vw;
 }
 #footer-div h1 {
-  font-family: monument;
+  font-family: monument, "Abril Fatface";
   width: 20%;
 }
 
@@ -838,7 +838,7 @@ h4 span {
   #nav {
     display: block;
     height: 50px;
-    margin-top: 15px;
+    margin-top: 10px;
   }
 
   #nav div {
